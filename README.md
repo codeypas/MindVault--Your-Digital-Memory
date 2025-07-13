@@ -14,6 +14,20 @@
 
 ---
 
+## Installation Guide 
+
+1) Go to chrome://extensions/
+
+2) Enable Developer mode (top-right corner)
+
+3) Click "Load unpacked"
+
+4) Select the unzipped dist/ folder
+
+5) Extension will be installed and show up in browser!
+
+---
+
 ## 🖼️ Screenshots
 
 ### 📋 Clipboard Tab
