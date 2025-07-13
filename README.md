@@ -55,7 +55,7 @@ This creates a production-ready build inside the `dist/` directory.
 1. Open Chrome and go to: `chrome://extensions/`
 2. Enable **Developer Mode** (top-right toggle)
 3. Click **Load Unpacked**
-4. Select the `dist/` folder
+4. Select the `MindVault--Your-Digital-Memory-main/` folder
 
 ---
 
