@@ -14,17 +14,25 @@
 
 ---
 
-## Installation Guide 
+## 🛠️ Installation Guide
 
-1) Go to chrome://extensions/
+1. **Download the Extension from GitHub**
+   - [Download ZIP](https://github.com/codeypas/MindVault-Your-Digital-Memory/archive/refs/heads/main.zip)
+   - Unzip the downloaded `MindVault--Your-Digital-Memory-main` folder
 
-2) Enable Developer mode (top-right corner)
+2. **Open Chrome Extensions Page**
+   - Go to `chrome://extensions/` in your browser
 
-3) Click "Load unpacked"
+3. **Enable Developer Mode**
+   - Toggle the switch at the top-right corner to enable Developer Mode
 
-4) Select the unzipped dist/ folder
+4. **Load the Extension**
+   - Click the `Load unpacked` button
+   - Select the unzipped folder: `MindVault--Your-Digital-Memory-main/`
 
-5) Extension will be installed and show up in browser!
+5. ✅ **Done!**
+   - The MindVault extension should now appear in your browser’s extensions bar
+
 
 ---
 
